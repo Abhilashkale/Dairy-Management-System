@@ -1,4 +1,4 @@
-# 🌟 ABHILASH Milk Dairy Management System 🌟
+# 🌟 ABHILASH Dairy Management System 🌟
 
 Welcome to the **SUNITA Milk Dairy Management System**, an easy-to-use software designed to automate and simplify the daily operations of a dairy farm. This program manages various processes such as milk deposits, meal purchases, loan applications, and more! 🚜🐄
 
